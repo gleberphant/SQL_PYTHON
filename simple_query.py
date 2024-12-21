@@ -1,7 +1,7 @@
 from pickletools import pybytes_or_str
 
 """
- TESTES DE USO DO SQL 3         
+ TESTES DE USO DO SQLLITE 3         
  feito por :  GR4V4T1NH4         
 
 """
